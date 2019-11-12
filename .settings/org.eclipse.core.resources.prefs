@@ -1,6 +1,6 @@
 eclipse.preferences.version=1
-encoding//test/test_qt/1_helloworld.py=utf-8
-encoding//test/test_qt/2_pushbutton.py=utf-8
-encoding//test/test_qt/3_messagebox.py=utf-8
-encoding//test/test_qt/4_statusbar.py=utf-8
-encoding//test/test_qt/5_menubar.py=utf-8
+encoding//test_qt/1_helloworld.py=utf-8
+encoding//test_qt/2_pushbutton.py=utf-8
+encoding//test_qt/3_messagebox.py=utf-8
+encoding//test_qt/4_statusbar.py=utf-8
+encoding//test_qt/5_menubar.py=utf-8
